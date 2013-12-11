@@ -1,0 +1,11 @@
+{
+  "name": "Prague.js website",
+  "version": "0.1.0",
+  "authors": [
+    "Robin Pokorný <robin@medvedi.eu>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "pure": "~0.3.0"
+  }
+}
